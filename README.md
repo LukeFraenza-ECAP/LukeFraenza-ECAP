@@ -1,11 +1,11 @@
-- 👋 They call me Luke Fraenza
-- 🌄 Good morning, how are you?  I'm Luke Fraenza.
+- 👋 They call me Lord Fraenza
+- 🌄 Good morning, how are you?  I'm Lord Fraenza.
 - 👀 I’m interested in things
-- ⛔ I'm not a real Luke
-- ✔️ but I am a real Fraenza
-- 🥼 I am an actual Fraenza
-- 🏠 I live like a Fraenza
-- 🥁 I like to play the drums
+- ⛔ I'm not a "real" doctor
+- ✔️ but I am a real Lord
+- 🫅 I am an actual Lord
+- 🏠 I live like a Lord
+
 - 🌱 I’m currently learning.
 - 💞️ I’m looking to collaborate.
 - 📫 How to reach me?
