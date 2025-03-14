@@ -5,12 +5,11 @@
 - ✔️ but I am a real Lord
 - 🫅 I am an actual Lord
 - 🏠 I live like a Lord
-
-- 🌱 I’m currently learning.
-- 💞️ I’m looking to collaborate.
-- 📫 How to reach me?
+- ❓ Established Titles; They Might Be Giants
+- 🌱 I’m always learning
+- 💞️ I’m looking to collaborate
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: Injecting iodine into an axolotl will caust it to metamporhose
+- ⚡ Fun fact: Injecting iodine into an axolotl will cause it to metamporhose
 
 <!---
 LukeFraenza-ECAP/LukeFraenza-ECAP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
